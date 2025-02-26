@@ -39,6 +39,7 @@ This project analyzes pizza sales data using **SQL** and **Power BI** to extract
 4. Use Power BI to visualize data and generate reports.
 
 ## 📜 Dataset
+[Dataset (click here)](https://github.com/sukenderreddy/Pizza-Sales-Analysis-Using-SQL-and-Power-BI/blob/main/pizza_sales.zip)
 The dataset contains pizza sales data, including order details, pizza categories, and pricing information.
 
 ## 📈 Power BI Dashboard
